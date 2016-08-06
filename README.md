@@ -1,6 +1,7 @@
 # hello-world
 
- Le test est enfin terminé.
+ Le test est un véritable succes.
+ Nous pouvous continuer quand nous le souhaitons.
  
- Au revoir.
+ A bientôt.
 
